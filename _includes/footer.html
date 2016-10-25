@@ -1,0 +1,16 @@
+<footer id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="one-third column" style="text-align: left;">
+                {{ site.name }} <br/>
+                <a href="mailto:{{ site.email }}">{{ site.email }}</a> <br/>
+            </div>
+            <div class="one-third column" style="text-align: left;">
+                {% if site.github_username %} {% include icon-github.html username=site.github_username %} {% endif %}
+            </div>
+            <div class="one-third column" style="text-align: left;">
+                {{ site.description[page.lang] }}
+            </div>
+        </div>
+    </div>
+</footer>
