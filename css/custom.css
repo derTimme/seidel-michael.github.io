@@ -1,0 +1,31 @@
+/* Navbar */
+  .navbar {
+    border-top-width: 0; }
+  .navbar{
+    display: block;
+    width: 100%;
+    height: auto;
+    background: #fff;
+    z-index: 99;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee; }
+  .navbar > .container {
+    width: 100%; }
+  .navbar-list {
+    list-style: none;
+    margin-bottom: 0; }
+  .navbar-item {
+    position: relative;
+    float: left;
+    margin-bottom: 0; }
+  .navbar-link {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .2rem;
+    margin-right: 35px;
+    text-decoration: none;
+    line-height: 50px;
+    color: #222; }
+  .navbar-link.active {
+    color: #33C3F0; }
