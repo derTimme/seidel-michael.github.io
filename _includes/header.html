@@ -1,39 +1,32 @@
-<heade class="header">
+<header class="header">
     <div class="row">
-        <div class="twelve columns">
-            <h1>Meine Seite</h1>
+        <div class="ten columns">
+            <h1 style="display: inline;">{{ site.name }}</h1>
+            <h5>{{ site.jobtitle[page.lang] }}</h5>
+        </div>
+          <div class="two columns">
+            <img src="{{ site.avatar }}" />
         </div>
     </div>
     <div class="row">
         <div class="twelve columns">
-         
-<nav class="navbar">
-      <div class="container">
-        <ul class="navbar-list">
-             {% assign pages=site.pages | where:"lang", page.lang | where_exp:"item", "item.menu == 1" %} {% for my_page in pages %} {%
-                    if my_page.title %}
-
-          <li class="navbar-item"><a class="navbar-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-          {% endif %} {% endfor %}
-        </ul>
-        
-<div style="float: right; padding-top: 9px;">
-    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %} {% for post in posts %}
-                <a href="{{ post.url | prepend: site.baseurl }}" class="nav-link"><img src="/images/blank.gif" class="flag flag-{{ post.lang }}" alt="{{ post.lang }}" /></a> {% endfor %}
-                {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %} {% for page in pages %}
-                <a href="{{ page.url | prepend: site.baseurl }}" class="nav-link"><img src="/images/blank.gif" class="flag flag-{{ page.lang }}" alt="{{ page.lang }}" /></a> {% endfor %}
-          
-</div>
-
-      </div>
-      
-    </nav>
-
-
-
+            <nav class="navbar">
+                <div class="container">
+                    <ul class="navbar-list">
+                        {% assign pages=site.pages | where:"lang", page.lang | where_exp:"item", "item.menu == 1" %} {% for my_page in pages %} {%
+                        if my_page.title %}
+                        <li class="navbar-item"><a class="navbar-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+                        {% endif %} {% endfor %}
+                    </ul>
+                    <div style="float: right; padding-top: 4px;">
+                        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %} {% for post in posts %}
+                        <a href="{{ post.url | prepend: site.baseurl }}" class="nav-link"><img src="/images/blank.gif" class="flag flag-{{ post.lang }}" alt="{{ post.lang }}" /></a> {% endfor
+                        %} {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %} {% for page in pages %}
+                        <a href="{{ page.url | prepend: site.baseurl }}" class="nav-link"><img src="/images/blank.gif" class="flag flag-{{ page.lang }}" alt="{{ page.lang }}" /></a> {% endfor
+                        %}
+                    </div>
+                </div>
+            </nav>
         </div>
-        
-            
-        
     </div>
-    </header>
+</header>
