@@ -2,8 +2,9 @@
 layout: page
 title: Portfolio
 ref: portfolio
+permalink: /de/portfolio/
 lang: de
-menu: 1
+menu: 20
 ---
 
 Mein Portfolio

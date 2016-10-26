@@ -2,8 +2,9 @@
 layout: page
 title: Über mich
 ref: about
+permalink: /de/about/
 lang: de
-menu: 1
+menu: 10
 ---
 
 Ceci est le thème par défaut de Jekyll. Vous pouvez en savoir plus sur les façons de personnaliser votre propre thème, ainsi que la documation de Jekyll sur [jekyllrb.com](http://jekyllrb.com/)
