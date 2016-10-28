@@ -9,15 +9,15 @@
 avatar: /images/my-avatar.jpg
 name: Michael Seidel
 jobtitle:
-  en: Softwareengineer
+  en: Software Developer
   de: Softwareentwickler
 title:
   en: Michael Seidel
   de: Michael Seidel
 email: info@seidel-michael.de
 description:
-  en: I'm a software engineer.
-  de: Ich bin ein Softwareentwickler.
+  en: Hello, I'm Michael, Softwaredevloper and Scrum Master from Germany. My passion is to create high quality software that fits your needs.
+  de: Hallo, ich bin Michael, ein Softwareentwickler und Scrum Master aus Deutschland. Meine Leidenschaft ist es, qualitativ hochwertige Software, die Ihren Bedürfnissen entspricht zu schaffen.
 index:
   en:
   de: index-de.html
@@ -27,6 +27,8 @@ feed:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.seidel-michael.de" # the base hostname & protocol for your site
 github_username:  seidel-michael
+piwikurl: piwik.seidel-michael.de
+piwikid: 1
 
 # Build settings
 markdown: kramdown
