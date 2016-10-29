@@ -4,7 +4,7 @@ title: Impressum
 permalink: /de/impressum/
 ref: impressum
 lang: de
-menu: 99
+fmenu: 10
 ---
 
 Angaben gemäß § 5 TMG

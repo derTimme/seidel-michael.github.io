@@ -4,7 +4,7 @@ title: Legal Disclosure
 permalink: /impressum/
 ref: impressum
 lang: en
-menu: 99
+fmenu: 10
 ---
 
 Information in accordance with section 5 TMG
