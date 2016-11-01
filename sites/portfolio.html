@@ -1,0 +1,23 @@
+---
+layout: default
+title: Portfolio
+permalink: /portfolio/
+ref: portfolio
+lang: en
+menu: 20
+---
+
+{% assign pages=site.pages | where:"lang", page.lang | where_exp:"item", "item.portfolio > 0" | sort: "portfolio" %} {% for my_page in pages %}
+<div class="row">
+    <div class="three columns">
+<img src="{{ my_page.thumbnail }}" height="200" width="200">
+    </div>
+     <div class="nine columns">
+         <h4>{{ my_page.title }}</h4>
+         <p>{{ my_page.short }}</p>
+         <a href="{{ my_page.url | prepend: site.baseurl }}">Read more...</a>
+     </div>
+
+</div>
+<br/>
+{% endfor %}
