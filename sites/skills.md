@@ -11,6 +11,7 @@ C#
 ---
 In the last years I developed most of the software with C#.
 These are some technologies I've used the most: 
+
 * WPF
 * WinForms
 * Databinding
@@ -21,6 +22,7 @@ These are some technologies I've used the most:
 HTML, CSS & JavaScript
 ----------
 With an growing demand on web technologies I've done projects with the following technologies among others:
+
 * HTML5
 * CSS3
 * JavaScript
@@ -33,6 +35,7 @@ With an growing demand on web technologies I've done projects with the following
 PHP
 ---
 Because you don't always want to setup a dedicated server for a backend service I use PHP in combination with a Framework instead.
+
 * Slim Framework
 * Unittesting / TDD
 * MySQL
