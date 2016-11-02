@@ -18,12 +18,13 @@ These are some technologies I've used the most:
 - Unittesting / TDD
 - Networking
 
-HTML, CSS & Javascript
+HTML, CSS & JavaScript
 ----------
-With an growing demand on web technologies I've done project with the following technologies among others:
+With an growing demand on web technologies I've done projects with the following technologies among others:
 - HTML5
 - CSS3
-- Responsive layout 
+- JavaScript
+- Responsive Design 
 - AngularJS
 - jQuery
 - Node.JS
@@ -39,6 +40,6 @@ Because you don't always want to setup a dedicated server for a backend service 
 
 ##### And there's more...
 ... but I don't want to bore you with long lists of skills.
-Just ask if you have a project that needs different skills. Or have a look in my [Portfolio](/portfolio/)
-Over the time I've done projects in a wide range of programming languages and used a load of tools.
+Just ask when you have a project that needs different skills. Or have a look in my [Portfolio](/portfolio/)
+Over the time I've done projects in a wide range of programming languages and used plenty of tools.
 
