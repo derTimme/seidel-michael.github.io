@@ -63,8 +63,7 @@ Aktuell
 
 Hier bin ich in Neuseeland. Reisen durch das Land und an Projekten arbeiten.
 Jeder Tag ist voller neuer Erfahrungen und neue Menschen kennen lernen.
-Werden Sie ein Teil meiner Reise und beauftragen Sie mich für ein Projekt.
-Und ja, hier gibt es Internet und ich kann von überall aus Arbeiten.
+Werde ein Teil meiner Reise und beauftrage mich für ein Projekt.
 
 Privatleben
 ============

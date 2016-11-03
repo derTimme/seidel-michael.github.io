@@ -63,7 +63,6 @@ Present
 Here I am in New Zealand. Travelling through the country and working on projects.
 Every day is full of new experiences and meeting new people.
 Become a part of the journey and hire me for a project. 
-And yes, they have Internet in New Zealand. I'm able to work from anywhere.
 
 Private life
 ============
