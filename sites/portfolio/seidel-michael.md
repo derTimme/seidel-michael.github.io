@@ -6,7 +6,7 @@ ref: portfolio-seidel-michael
 lang: en
 portfolio: 10
 thumbnail: /images/portfolio/portfolio_thumbnail.png
-short: For my own Homepage I wanted a compromise between a big Content Managament System and uncofortable static HTML pages. For this I've found the perfect solution with Jekyll.
+short: For my own Homepage I wanted a compromise between a big Content Managament System and uncomfortable static HTML pages. For this I've found the perfect solution with Jekyll.
 ---
 
 The requirements for my own Homepage weren't to complicated.
