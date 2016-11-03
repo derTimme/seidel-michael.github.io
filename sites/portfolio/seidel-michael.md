@@ -5,7 +5,7 @@ permalink: /portfolio/seidel-michael
 ref: portfolio-seidel-michael
 lang: en
 portfolio: 10
-thumbnail: /images/portfolio/portfolio_thumbnail.png
+thumbnail: /images/portfolio/seidel-michael/website_thumb.png
 short: For my own Homepage I wanted a compromise between a big Content Managament System and uncomfortable static HTML pages. For this I've found the perfect solution with Jekyll.
 ---
 

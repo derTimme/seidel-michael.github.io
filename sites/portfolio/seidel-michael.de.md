@@ -5,7 +5,7 @@ permalink: /de/portfolio/seidel-michael
 ref: portfolio-seidel-michael
 lang: de
 portfolio: 10
-thumbnail: /images/portfolio/portfolio_thumbnail.png
+thumbnail: /images/portfolio/seidel-michael/website_thumb.png
 short: Für meine eigene Homepage habe ich nach einem Kompromiss zwischen einem Content Managament System und unkonfortablen statischen HTML Seiten gesucht. Mit Jekyll habe ich die perfekte Lösung gefunden.
 ---
 
