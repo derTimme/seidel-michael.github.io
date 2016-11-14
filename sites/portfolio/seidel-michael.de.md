@@ -12,8 +12,8 @@ short: Für meine eigene Homepage habe ich nach einem Kompromiss zwischen einem 
 Die Anforderungen an meine Homepage waren nicht zu kompliziert.
 
 - Inhalte mit geringer komplexität aktualisieren
-- Design austauschen ohne die ganze Seite neu erstellen zu müssen
-- Möglichkeit einen Blog zu starten
+- Design austauschen, ohne die ganze Seite neu erstellen zu müssen
+- Möglichkeit, einen Blog zu starten
 - Einfaches und sauberes Design
 - Responsive Design
 - Kein CMS oder Wordpress
@@ -21,13 +21,13 @@ Die Anforderungen an meine Homepage waren nicht zu kompliziert.
 
 Ich wollte aus zwei Gründen kein CMS oder Wordpress verwenden.
 Meiner Meinung nach sind diese Systeme zu viel des Guten für meine Anforderungen und ich will nicht jede Woche meine Zeit mit Sicherheitsupdates verschwenden.
-Nur einfache HTML Seiten zu nutzen war keine Option weil das zu viel Zeit zum bearbeiten in anspruch nimmt.
+Nur einfache HTML Seiten zu nutzen war keine Option, weil das zu viel Zeit zum Bearbeiten in Anspruch nimmt.
 
-Die perfekte Lösung habe ich mit [Jekyll](https://jekyllrb.com/) gefunden.
+Die für meine Anforderungen perfekte Lösung habe ich mit [Jekyll](https://jekyllrb.com/) gefunden.
 Mit Jekyll erstellt man das Layout der Website mit HTML und CSS.
-Der Inhalt der Seite wird dann von einer [Markdown](http://daringfireball.net/projects/markdown/) Datei ind statische HTML Seiten übersetzt.
+Der Inhalt der Seite wird dann von einer [Markdown](http://daringfireball.net/projects/markdown/) Datei in statische HTML Seiten übersetzt.
 
-Um zu beginn Zeit zu sparen habe ich zum starten die Mehrsprachige Vorlage von [Sylvain Durand](https://www.sylvaindurand.org/making-jekyll-multilingual/) genutzt.
+Um zu Beginn Zeit zu sparen, habe ich als Basis die mehrsprachige Vorlage von [Sylvain Durand](https://www.sylvaindurand.org/making-jekyll-multilingual/) genutzt.
 
 Technologien
 ------------
