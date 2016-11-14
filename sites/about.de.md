@@ -46,29 +46,27 @@ Dabei konnte ich die ersten internen Bibliotheken und Frameworks erstellen, um d
 In der Arbeitswelt
 --------------------
 
-Nach meiner Ausbildung habe ich in derselben Abteilung und Firma weitergearbeitet.
-Ich konnte einige spannende RFID basierte Projekte umsetzen.
-Die Abteilung hat versucht von der Projektbasierten Entwicklung zur Entwicklung von Standardsoftware zu wechseln.
-Ich hatte das Glück bei dieser Änderung dabei zu sein. Komplexere Software erstellen und neue Werkzeuge und Coding Guidelines einführen.
-Ich habe in der Zeit ein Scrum Master Zertifikat gemacht und die Rolle als Scrum Master in der Abteilung übernommen.
+Nach meiner Ausbildung habe ich in derselben Abteilung und Firma weitergearbeitet und konnte dort einige spannende RFID-basierte Projekte umsetzen.
+Die Abteilung hat versucht, von der projektbasierten Entwicklung zur Entwicklung von Standardsoftware zu wechseln.
+Ich hatte das Glück bei dieser Änderung dabei zu sein, komplexere Software zu erstellen und neue Werkzeuge und Coding Guidelines einzuführen.
+In der Zeit habe ich ein Scrum Master Zertifikat gemacht und die Rolle als Scrum Master in der Abteilung übernommen.
 
 Neuseeland
 -----------
 
-Nach über drei Jahren in der Arbeitswelt habe ich mich dazu entschlossen eine Pause in meiner täglichen Arbeitsroutine einzulegen.
-Ich habe mein Rucksack gepackt und bin direkt nach Neuseeland geflogen mit der Hoffnung Arbeitserfahrung im Ausland zu machen, meinen Horizont zu erweitern und neue Menschen kennen zu lernen.
+Nach über drei Jahren in der Arbeitswelt habe ich mich dazu entschlossen, eine Pause von meiner täglichen Arbeitsroutine einzulegen.
+Ich habe meinen Rucksack gepackt und bin direkt nach Neuseeland geflogen mit der Hoffnung, Arbeitserfahrung im Ausland zu machen, meinen Horizont zu erweitern und neue Menschen kennen zu lernen.
 
 Aktuell
 ------
 
-Hier bin ich in Neuseeland. Reisen durch das Land und an Projekten arbeiten.
-Jeder Tag ist voller neuer Erfahrungen und neue Menschen kennen lernen.
+Aktuell bin ich in Neuseeland, reise durch das Land und arbeite an Projekten.
+Jeder Tag ist voll mit neuen Erfahrungen und Menschen.
 Werde ein Teil meiner Reise und beauftrage mich für ein Projekt.
 
 Privatleben
 ============
 
 Neben meiner Arbeit als Softwareentwickler tue ich auch andere Dinge.
-Ich mache Musik mit Freunden. Ich spiele Bariton, Posaune und Trompete und manchmal auch probiere ich auch was Neues.
-Ich bin Nebenberuflich Selbständig als Veranstaltungstechniker.
-Ich bin Christ und arbeite Ehrenamtlich in meinem CVJM vor Ort.
+Ich mache Musik mit Freunden. Ich spiele Bariton, Posaune und Trompete und manchmal probiere ich auch was Neues.
+Nebenberuflich bin ich außerdem selbständig als Veranstaltungstechniker tätig, ich bin Christ und arbeite ehrenamtlich in meinem CVJM vor Ort.
