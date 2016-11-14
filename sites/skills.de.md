@@ -10,7 +10,7 @@ menu: 15
 C#
 ---
 In den letzten Jahren habe ich die meiste Software in C# entwickelt.
-Hier ein paar Technologien die ich am Meisten benutze:
+Hier ein paar der Technologien und Entwicklungstechniken, die ich am meisten benutze:
 
 * WPF
 * WinForms
@@ -26,7 +26,7 @@ Mit einer wachsenden Nachfrage an Web-Technologien habe ich Projekte mit unter a
 * HTML5
 * CSS3
 * JavaScript
-* Responsive Design 
+* Responsive Design
 * AngularJS
 * jQuery
 * Node.JS
@@ -34,7 +34,7 @@ Mit einer wachsenden Nachfrage an Web-Technologien habe ich Projekte mit unter a
 
 PHP
 ---
-Da man nicht immer einen dedizierten Server für einen Backend-Dienst einrichten will verwende ich stattdessen PHP in Kombination von einem Framework.
+Da man nicht immer einen dedizierten Server für einen Backend-Dienst einrichten will, verwende ich stattdessen PHP in Kombination mit einem Framework.
 
 * Slim Framework
 * Unittesting / TDD
@@ -43,5 +43,5 @@ Da man nicht immer einen dedizierten Server für einen Backend-Dienst einrichten
 
 ##### Und es gibt mehr...
 ... aber ich möchte niemanden mit langen Listen von Fähigkeiten langweilen.
-Fragen Sie einfach nach wenn Sie ein Projekt haben das andere Fähigkeiten benötigt. Oder schauen Sie sich mein [Portfolio](/portfolio/) an.
-Über die Jahre habe ich Projekte in einer Vielzahl  von Programmiersprachen und mit vielen Tools umgesetzt.
+Fragen Sie einfach nach, wenn Sie ein Projekt haben das andere Fähigkeiten benötigt. Oder schauen Sie sich mein [Portfolio](/portfolio/) an.
+Über die Jahre habe ich Projekte in einer Vielzahl von Programmiersprachen und mit vielen Tools umgesetzt.
